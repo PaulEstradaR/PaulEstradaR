@@ -1,4 +1,6 @@
 ## Hi there 👋
+I'm an aeronautical engineering student at Instituto Politécnico Nacional in Mexico City.
+I’m currently working on a Laravel Website backend just for fun!
 
 <!--
 **PaulEstradaR/PaulEstradaR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
